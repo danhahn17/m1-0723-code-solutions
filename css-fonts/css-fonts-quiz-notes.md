@@ -8,7 +8,7 @@ After completing this exercise, you should be able to discuss or answer the foll
   px and rem (also em)
 
 - What CSS property controls the font used for the text inside an element?
-  font-family
+  font-family property
 
 ## Notes
 
